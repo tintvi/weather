@@ -1,9 +1,3 @@
-
-
 export function Preview() {
-    return(
-        <div>
-
-        </div>
-    );
+  return <div></div>;
 }

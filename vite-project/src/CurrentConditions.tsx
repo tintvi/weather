@@ -1,9 +1,3 @@
-
-
 export function CurrentConditions() {
-    return(
-        <div>
-
-        </div>
-    );
+  return <div></div>;
 }
